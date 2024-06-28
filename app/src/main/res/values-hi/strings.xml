@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Welcome">स्वागत</string>
+    <string name="hometxt">यात्रा करने के लिए सर्वोत्तम स्थानों की खोज करें</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="signin">दाखिल करना</string>
+    <string name="description">यह 2 बिस्तर/1 स्नान घर एक विशाल, खुले रहने की योजना का दावा करता है, जो आकर्षक वास्तुशिल्प विशेषता से सुसज्जित है</string>
+    <string name="popular">लोकप्रिय</string>
+    <string name="category">वर्ग</string>
+    <string name="book">अभी बुक करें</string>
+
+</resources>
